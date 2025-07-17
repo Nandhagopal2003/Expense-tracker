@@ -31,19 +31,22 @@ Effective personal finance management begins with clear visibility into one’s 
 
 ### ➕ Add New Expense
 
-![Add Expense Screen]("D:\Nandhagopal\aserdn new\1.jpg")
+**Expense Screen :**
+
 ![1](https://github.com/user-attachments/assets/8719c050-1b6a-499d-918e-ba1e91930bee)
 
 
 ### 📈 Dashboard & Analytics
 
-![Dashboard Screen]("D:\Nandhagopal\aserdn new\1.jpg")
+**Dashboard Screen :**
+
 ![2](https://github.com/user-attachments/assets/0343e45a-4731-44a9-95fb-72c6898520f3)
 
 
 ### ☁️ Firestore Document Structure
 
-![Firestore Console]("D:\Nandhagopal\aserdn new\1.jpg")
+**Firestore Console :**
+
 ![3](https://github.com/user-attachments/assets/36dc21c3-cd60-4990-8e8f-6b88c552d607)
 
 

@@ -27,6 +27,30 @@ Effective personal finance management begins with clear visibility into one’s 
 
 ---
 
+⚙️ How It Works
+
+The Expense Tracker App follows a streamlined process to ensure seamless tracking and visualization of expenses:
+
+User Input:
+- Users enter expense details such as amount, category, date, and notes via the Expense Form screen.
+
+Data Storage:
+- Upon saving, the data is stored securely in Firebase Firestore—a scalable, cloud-based NoSQL database.
+
+Real-Time Sync:
+- Firestore enables real-time updates, allowing changes to reflect instantly across screens.
+
+Dashboard Update:
+- The main dashboard fetches this data and displays total spending and the top expense category dynamically.
+
+Pie Chart Visualization:
+- The Category Pie Chart visualizes expenses based on categories, helping users understand their financial distribution at a glance.
+
+Cross-Platform Experience:
+- Thanks to Flutter, the app delivers a consistent UI and performance across Android and iOS.
+
+---
+
 ## 📊 Visual Previews
 
 ### ➕ Add New Expense

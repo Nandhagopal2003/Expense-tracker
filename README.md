@@ -85,6 +85,7 @@ lib/
 ---
 
 📈 Use Cases
+
 Personal Budgeting: Monitor daily and monthly expenditures.
 
 Travel Expense Management: Track trip‑related costs in real time.

@@ -99,6 +99,6 @@ B.E., Electronics & Communication Engineering
 📍 Chennai, India
 ✉️ nandhagopal3710@gmail.com
 
-🔗 [LinkedIn](https://linkedin.com/in/Nandhagoal-NG) | 🌐 [Portfolio](https://nandhgopalportfolio.netlify.app)
+🔗 [LinkedIn](https://www.linkedin.com/in/nandhagopal03/) | 🌐 [Portfolio](https://nandhgopalportfolio.netlify.app)
 
 

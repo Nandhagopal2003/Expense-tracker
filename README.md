@@ -77,7 +77,7 @@ lib/
 | Component               | Specification                                              |
 |-------------------------|------------------------------------------------------------|
 | **Frontend**            | Flutter (Dart)                                             |
-| **Backend**             | Firebase Firestore                                        |
+| **Backend**             | Firebase Firestore                                         |
 | **State Management**    | Provider / Firebase SDK                                    |
 | **Visualization**       | Flutter Chart Packages                                     |
 | **IDE**                 | Visual Studio Code                                         |
@@ -86,17 +86,21 @@ lib/
 
 📈 Use Cases
 
-Personal Budgeting: Monitor daily and monthly expenditures.
+- Personal Budgeting: Monitor daily and monthly expenditures.
 
-Travel Expense Management: Track trip‑related costs in real time.
+- Travel Expense Management: Track trip‑related costs in real time.
 
-Family Finance Oversight: Consolidate household spending by category.
+- Family Finance Oversight: Consolidate household spending by category.
 
-Event Planning: Manage budgets for conferences, weddings, and more.
+- Event Planning: Manage budgets for conferences, weddings, and more.
+
 
 👨‍💻 Author
+
 NANDHAGOPAL V
-B.E., Electronics & Communication Engineering
+
+B.E - Electronics & Communication Engineering
+
 📍 Chennai, India
 ✉️ nandhagopal3710@gmail.com
 

@@ -56,11 +56,17 @@ Effective personal finance management begins with clear visibility into one’s 
 
 lib/
 ├── main.dart # Application entry point
+
 ├── expense_form.dart # “Add Expense” screen UI
+
 ├── category_pie_chart.dart # Pie chart rendering logic
+
 ├── expense_list.dart # (Optional) Detailed expense list
+
 ├── firestore_helpers.dart # Firestore CRUD operations
+
 ├── firebase_options.dart # Firebase configuration (auto‑generated)
+
 └── widgets/ # Reusable custom widgets
 
 
@@ -92,5 +98,7 @@ NANDHAGOPAL V
 B.E., Electronics & Communication Engineering
 📍 Chennai, India
 ✉️ nandhagopal3710@gmail.com
-🔗 LinkedIn | 🌐 Portfolio
+
+🔗 [LinkedIn](https://linkedin.com/in/Nandhagoal-NG) | 🌐 [Portfolio](https://nandhgopalportfolio.netlify.app)
+
 
